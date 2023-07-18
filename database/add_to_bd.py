@@ -42,7 +42,7 @@ def add_user(message: Message) -> None:
 def add_query(query_data: dict) -> None:
     """
     Создаёт таблицу, если она ещё не создавалась и добавляет туда данные,
-    которые ввел пользователь для поиска
+    которые ввел пользователь для поиска-
     : param query_data : dict
     : return : None
     """
